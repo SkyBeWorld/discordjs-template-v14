@@ -12,7 +12,12 @@ Classic template discord.js v14 with mongoDB database !
 1. unzip the file and open a terminal !
 2. Type ```npm i```
 3. create .env file with this! 
-[Preview](https://user-images.githubusercontent.com/106020834/198229009-a5e238e3-ac5f-469c-b4cd-1df353a454a1.png)
+
+
+![Preview](https://user-images.githubusercontent.com/106020834/198229009-a5e238e3-ac5f-469c-b4cd-1df353a454a1.png)
+
+
+
 4. and Finish :)
 
 
