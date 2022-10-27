@@ -45,7 +45,7 @@ Classic template discord.js v14 with mongoDB database !
 
 ![image](https://user-images.githubusercontent.com/106020834/198233785-b21763c4-497e-44aa-b41b-5bbad816c585.png)
 
-- for the final past the code exemple in .env file
+- for the final paste the code exemple in .env file
 
 
 ![image](https://user-images.githubusercontent.com/106020834/198233956-94341fa3-ac37-49dc-9142-116517e66a81.png)
