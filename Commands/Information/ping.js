@@ -1,5 +1,4 @@
 const { Client, ChatInputCommandInteraction } = require("discord.js")
-const Reply = require("../../Systems/Reply")
 
 module.exports = {
     name: "ping",
