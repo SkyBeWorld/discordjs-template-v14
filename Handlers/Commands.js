@@ -10,7 +10,7 @@ module.exports = async (client, PG, Ascii) => {
 
     let CommandsArray = []
 
-    const commandFiles = await PG(`${process.cwd()}/commands/*/*.js`)
+    const commandFiles = await PG(`${process.cwd()}/Commands/*/*.js`)
 
     commandFiles.map(async (file) => {
         const command = require(file)
