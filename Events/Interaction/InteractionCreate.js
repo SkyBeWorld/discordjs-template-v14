@@ -1,6 +1,5 @@
 const { Client, CommandInteraction, InteractionType } = require("discord.js")
 const { ApplicationCommand } = InteractionType
-const Reply = require("../../Systems/Reply")
 
 module.exports = {
     name: "interactionCreate",
