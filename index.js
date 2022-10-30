@@ -17,7 +17,7 @@ const client = new Client({
 client.events = new Collection()
 client.commands = new Collection()
 
-const Handlers = ["Events", "Commands"]
+const Handlers = ["Events", "Commands", "Errors"]
 
 Handlers.forEach(handler => {
     require(`./Handlers/${handler}`)(client, PG, Ascii)
